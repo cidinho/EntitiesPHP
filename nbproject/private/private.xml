@@ -3,6 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/E:/xampp/htdocs/entities/cli-config.php</file>
+            <file>file:/E:/xampp/htdocs/entities/bootstrap.php</file>
+            <file>file:/E:/xampp/htdocs/entities/framework/src/Database/Repositorio.php</file>
+            <file>file:/E:/xampp/htdocs/entities/framework/src/Database/IRepository.php</file>
             <file>file:/E:/xampp/htdocs/entities/composer.json</file>
             <file>file:/E:/xampp/htdocs/entities/index.php</file>
         </group>
