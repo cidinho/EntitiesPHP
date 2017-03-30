@@ -1,0 +1,17 @@
+{
+    "name": "entitiesphp/framework",
+    "description": "Framework baseado no padrão naked objects",
+    "type": "library",
+    "require": {
+        "php": ">=5.6",
+        "doctrine/orm": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alcides Bezerra",
+            "email": "alcidesbezerralima@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
