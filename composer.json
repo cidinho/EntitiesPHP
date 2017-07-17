@@ -7,12 +7,11 @@
         "source": "https://github.com/cidinho/EntitiesPHP"
     },
     "require": {
-        "php": ">=7.1"
+        "php": ">=7.1",
+        "entitiesphp/repository": "*"
     },
     "require-dev": {
-        "doctrine/orm": "*",
-        "symfony/yaml": "2.*",
-        "symfony/var-dumper":"*"
+        "symfony/var-dumper": "*"
     },
     "license": "MIT",
     "authors": [
