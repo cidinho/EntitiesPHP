@@ -8,7 +8,7 @@
     },
     "require": {
         "php": ">=7.1",
-        "entitiesphp/repository": "^0.5"
+        "entitiesphp/repository": "*"
     },
     "require-dev": {
         "symfony/var-dumper": "*"
